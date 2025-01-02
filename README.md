@@ -1,8 +1,8 @@
-# Google Sheet: Criando uma Função Personalizada com Apps Script
+# Google Sheet: Criando Funções Personalizadas com Apps Script
 
-Neste vídeo, você aprenderá como criar funções personalizadas no **Google Sheets** utilizando o Apps Script. As funções que serão criadas incluem uma para calcular a idade com base em uma **data de nascimento** e outra para buscar informações detalhadas de um **CEP** utilizando uma API. Essa funcionalidade é útil para realizar cálculos ou operações que **não são cobertas** pelas fórmulas nativas do Google Sheets.
+Neste vídeo, você aprenderá como criar funções personalizadas no **Google Sheets** utilizando o Apps Script. As funções que serão criadas incluem uma para calcular a idade com base em uma **data de nascimento** e outra para buscar informações detalhadas de um **CEP** utilizando uma API. Essas funcionalidades são úteis para realizar cálculos ou operações que **não são cobertas** pelas fórmulas nativas do Google Sheets.
 
-Essa função personalizada será implementada em **Apps Script**, a plataforma de scripts da Google baseada em **JavaScript**, que permite automatizar tarefas e estender as funcionalidades do Google Workspace. O Apps Script utiliza uma versão baseada no **ECMAScript 5**, o que significa que algumas funcionalidades mais modernas do JavaScript podem não estar disponíveis, mas fornece robustez para criar soluções personalizadas.
+Essas funções personalizadas serão implementadas em **Apps Script**, a plataforma de scripts da Google baseada em **JavaScript**, que permite automatizar tarefas e estender as funcionalidades do Google Workspace. O Apps Script utiliza uma versão baseada no **ECMAScript 5**, o que significa que algumas funcionalidades mais modernas do JavaScript podem não estar disponíveis, mas fornece robustez para criar soluções personalizadas.
 
 <!--
 -->
@@ -23,7 +23,7 @@ Essa função personalizada será implementada em **Apps Script**, a plataforma 
 
 + ![Apps Script](https://img.shields.io/badge/Apps%20Script-Habilitado-E3E3E3)
 
-## Criando a Função Personalizada
+## Criando as Funções Personalizadas
 
 ### Passos
 
