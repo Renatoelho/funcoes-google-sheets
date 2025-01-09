@@ -5,12 +5,13 @@ Neste vídeo, você aprenderá como criar funções personalizadas no **Google S
 Essas funções personalizadas serão implementadas em **Apps Script**, a plataforma de scripts da Google baseada em **JavaScript**, que permite automatizar tarefas e estender as funcionalidades do Google Workspace. O Apps Script utiliza uma versão baseada no **ECMAScript 5**, o que significa que algumas funcionalidades mais modernas do JavaScript podem não estar disponíveis, mas fornece robustez para criar soluções personalizadas.
 
 <!--
+https://www.youtube.com/@renato-coelho
 -->
 
 ## Apresentação em vídeo
 
 <p align="center">
-  <a href="https://www.youtube.com/@renato-coelho" target="_blank"><img src="imagens/thumbnail/thumbnail-google-sheet.png" alt="Vídeo de apresentação"></a>
+  <a href="https://youtu.be/V9qfxzxsCLQ" target="_blank"><img src="imagens/thumbnail/thumbnail-google-sheet.png" alt="Vídeo de apresentação"></a>
 </p>
 
 ### Requisitos
